@@ -1,0 +1,1962 @@
+[
+  {
+    "loja_id": 206,
+    "loja": "Rio Branco",
+    "endereco": "Rod BR 364 (Rio Branco - Porto Velho ) Até 5013 Lado Impar nº 1897 - Santa Inês - CEP:69907-701",
+    "cidade": "Rio Branco",
+    "estado": "Acre"
+  },
+  {
+    "loja_id": 152,
+    "loja": "Arapiraca",
+    "endereco": "Rua Maria Genusir Soares, 308, SETOR 08 QUADRALOC 958 LOTE 0468 - PLANALTO CEP: 57308-532",
+    "cidade": "Arapiraca",
+    "estado": "Alagoas"
+  },
+  {
+    "loja_id": 289,
+    "loja": "Maceió Farol (Projeto Olimpo)",
+    "endereco": "Av Fernandes Lima nº 4000 - Gruta de Lourdes - CEP: 57052-403",
+    "cidade": "Maceió",
+    "estado": "Alagoas"
+  },
+  {
+    "loja_id": 76,
+    "loja": "Maceio Menino Marcelo",
+    "endereco": "Av. Menino Marcelo S/N , PARTI 1  -Serraria CEP: 57.046-000",
+    "cidade": "Maceió",
+    "estado": "Alagoas"
+  },
+  {
+    "loja_id": 179,
+    "loja": "Maceió Tabuleiro",
+    "endereco": "Avenida Doutor Durval de Goes Monteiro, 10.580  - CEP: 57081-285",
+    "cidade": "Maceió",
+    "estado": "Alagoas"
+  },
+  {
+    "loja_id": 290,
+    "loja": "Mangabeira  (Projeto Olimpo)",
+    "endereco": "Av Comendador Gustavo Paiva nº 3261 - Mangabeiras- CEP: 57037-532",
+    "cidade": "Maceió",
+    "estado": "Alagoas"
+  },
+  {
+    "loja_id": 190,
+    "loja": "Macapá",
+    "endereco": "AV STEPHAN HOUAT S/N  LOTE 03 QUADRA JARDIM MARCO ZERO - CEP: 68.903-193",
+    "cidade": "Macapá",
+    "estado": "Amapá"
+  },
+  {
+    "loja_id": 146,
+    "loja": "Manaus Efigênio Salles",
+    "endereco": "Av. Ephigenio Salles, 2045 - Aleixo - CEP: 069.060-020",
+    "cidade": "Manaus",
+    "estado": "Amazonas"
+  },
+  {
+    "loja_id": 122,
+    "loja": "Manaus Grande Circular",
+    "endereco": "Av. Autaz Mirim n°8755 - Novo Aleixo - CEP: 69.099-045",
+    "cidade": "Manaus",
+    "estado": "Amazonas"
+  },
+  {
+    "loja_id": 210,
+    "loja": "Manaus Torquarto",
+    "endereco": "Av Torquarto Tapajos Nº 2200  - Flores - CEP:69058-830",
+    "cidade": "Manaus",
+    "estado": "Amazonas"
+  },
+  {
+    "loja_id": 242,
+    "loja": "Barreiras",
+    "endereco": "Av Cleriston Andrade nº 1.897  - Sao Miguel - CEP: 47800-390",
+    "cidade": "Barreiras",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 243,
+    "loja": "Barris",
+    "endereco": "Rua do Salete nº 30 - Barris - CEP: 40070200",
+    "cidade": "Salvador ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 255,
+    "loja": "Cabula",
+    "endereco": "Rua Silveira Martins nº 119 - Cabula - CEP 41150-000",
+    "cidade": "Salvador ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 139,
+    "loja": "Camaçari",
+    "endereco": "Avenida Jorge Amado, s/n - LOTE 02A  - Jardim Limoeiro -CEP: 42802-580 ",
+    "cidade": "Camaçari ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 78,
+    "loja": "Cidade Baixa",
+    "endereco": "Rua Luiz Regis Pacheco, 2 - Uruguai - CEP: 40451-360",
+    "cidade": "Salvador ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 67,
+    "loja": "Feira de Santana ",
+    "endereco": "Av. Eduardo Froes da Mota S/N Bairro Sobradinho  - CEP: 44.021-215",
+    "cidade": "Feira de Santana ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 225,
+    "loja": "Feira de Santana (Tomba)",
+    "endereco": "Av Eduardo Froes da Mota nº 2500 - Tomba - CEP:44090-156",
+    "cidade": "Feira de Santana ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 164,
+    "loja": "Golf Club",
+    "endereco": "Rua Genaro de Carvalho, 516, tr - Jardim Cajazeiras - CEP: 41230-304",
+    "cidade": "Salvador ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 159,
+    "loja": "Guanambi ",
+    "endereco": "Rodovia BR 030 - 5978 - km 06 - São Sebastião -CEP: 46430-000",
+    "cidade": "Guanambi ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 125,
+    "loja": "Ilheus ",
+    "endereco": "Avenida Tancredo Neves, 4050 - Nossa Senhora da Vitoria  - Ilheus - CEP: 45655-650",
+    "cidade": "Ilhéus ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 196,
+    "loja": "Itapetinga",
+    "endereco": "ROD BA 263, 213 Lote 14 Quadra K  - Recanto da Colina - CEP: 45.700-000",
+    "cidade": "Itapetinga ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 95,
+    "loja": "Jequié",
+    "endereco": "Av. Cesar Borges SN - São Judas Tadeu - CEP: 45.200-970 ",
+    "cidade": "Jequié ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 66,
+    "loja": "Juazeiro da Bahia ",
+    "endereco": "AV SAO JOAO, 1947, JARDIM VITORIA - CEP: 48.900-441",
+    "cidade": "Juazeiro ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 143,
+    "loja": "Lauro de Feitas ",
+    "endereco": "Avenida Santos Dumont,2239 - Portão - CEP: 42700-000",
+    "cidade": "Lauro de Freitas ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 177,
+    "loja": "Mussurunga ",
+    "endereco": "Rua Professor Plinio Garcez de Sena , 1.240 - Mussurunga -CEP: 41.490-340",
+    "cidade": "Salvador ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 90,
+    "loja": "Paripe",
+    "endereco": "Av. Afrânio Peixoto, S/N - Paripe  - CEP: 40.800-570",
+    "cidade": "Salvador ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 106,
+    "loja": "Paulo Afonso",
+    "endereco": "Avenida do Aeroporto, 13 - Jardim Bahia - CEP: 48.604-005",
+    "cidade": "Paulo Afonso ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 321,
+    "loja": "Salvador Rótula",
+    "endereco": "Av Antônio Carlos Magalhães n/ 1400 Loja 0005 - CEP 40260-700",
+    "cidade": "Salvador",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 184,
+    "loja": "Senhor do Bonfim",
+    "endereco": "Rua Jose Otavio Carvalho, S/N - Umburana- CEP: 48.970-000",
+    "cidade": "Senhor do Bonfim ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 185,
+    "loja": "Serrinha ",
+    "endereco": "Avenida Lomanto Junior Margem BR 116, S/N - Cidade Nova - CEP: 48700-000",
+    "cidade": "Serrinha ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 297,
+    "loja": "Teixeira de Freitas ",
+    "endereco": "Av Presidente Getulio Vargas nº 7887 - Jardim Beira Rio- CEP: 45994-850",
+    "cidade": "Teixeira de Freitas",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 256,
+    "loja": "Vasco da Gama (Projeto Olimpo)",
+    "endereco": "Av Vasco da Gama, nº 4049 Loja Federação - Federação- CEP: 40230-731",
+    "cidade": "Salvador",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 87,
+    "loja": "Vitoria da Conquista ",
+    "endereco": "Avenida Anel de Contorno  S/N - Gleba 08 - Felicia - CEP: 45055-686",
+    "cidade": "Vitória da Conquista ",
+    "estado": "Bahia"
+  },
+  {
+    "loja_id": 330,
+    "loja": "Cais do Porto ",
+    "endereco": "Av José Saboia nº 521 E-1 - CEP: 60180-480",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 33,
+    "loja": "Caucaia",
+    "endereco": "Rodovia BR 222, 6970 - Parque Tabapua - CEP.:  61616-000",
+    "cidade": "Caucaia ",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 23,
+    "loja": "Fortaleza ",
+    "endereco": "Av. Bezerra de Menezes, 571 - Farias Brito - CEP.: 60325-003",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 318,
+    "loja": "Fortaleza Jockey (Projeto Olimpo)",
+    "endereco": "Av Senador Fernandes Tavora nº 44 Joquei Club, Fortaleza – CE, CEP 60510-111",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 189,
+    "loja": "Fortaleza Messejana",
+    "endereco": "Rod. BR 116 - Nº 7555 - Messejana -CEP: 60842-395",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 319,
+    "loja": "Fortaleza Mister Hull",
+    "endereco": "Av Mister Hull nº 4300 - CEP  60356-412",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 317,
+    "loja": "Fortaleza Montese",
+    "endereco": "Av dos Expedicionários nº 4444 CEP 60410-446",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 47,
+    "loja": "Fortaleza Parangaba",
+    "endereco": "Av. Godofredo Maciel, 86, Parangaba - CEP.: 77021-623 ",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 239,
+    "loja": "Fortaleza Sgto Herminio",
+    "endereco": "Av Sargento Sampaio Hermínio S/N Lote 1 Quadra 04 - Presidente Kennedy - CEP:60355-503",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 234,
+    "loja": "Fortaleza Tapioqueiras",
+    "endereco": "Rua Miguel Gurgel nº 1900 Comercial - Coacu - CEP:60871-790",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 171,
+    "loja": "Iguatu",
+    "endereco": "Av. Carlos Roberto Cista S/N - Areias II - CEP: 63508-050",
+    "cidade": "Iguatu",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 62,
+    "loja": "Juazeiro do Norte",
+    "endereco": "Avenida Padre Cicero, 4400 - São José - CEP: 63.024-015",
+    "cidade": "Juazeiro do Norte",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 145,
+    "loja": "Maracanaú",
+    "endereco": "Av. Senador Virgílio Tavora - SN - Distrito Industrial I - CEP: 61.939-160",
+    "cidade": "Maracanau ",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 88,
+    "loja": "Sobral",
+    "endereco": "Rod BR 222 N° 3638 - Cidade Gerardo Cristino de Men - CEP: 62051-402",
+    "cidade": "Sobral ",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 27,
+    "loja": "Washington Soares ",
+    "endereco": "Av. Washington Soares, 5657 - Edson Queiroz - CEP.: 60830-641 ",
+    "cidade": "Fortaleza",
+    "estado": "Ceará"
+  },
+  {
+    "loja_id": 308,
+    "loja": "Brasília ASA Norte (Projeto Olimpo) ",
+    "endereco": "ST STN, S/N Conj A, Asa Norte - CEP: 70770-100",
+    "cidade": "Brasília",
+    "estado": "Distrito Federal"
+  },
+  {
+    "loja_id": 296,
+    "loja": "Brasília Park  (Projeto Olimpo)",
+    "endereco": "SMAS Loja 02 Conj 05 Pavmto01 Trecho 03 - Zona Industrial Guara - CEP: 71215-300",
+    "cidade": "Brasília",
+    "estado": "Distrito Federal"
+  },
+  {
+    "loja_id": 51,
+    "loja": "Brasília Sul",
+    "endereco": "Sia SUL, S/Nº, Trecho 12, Lote 105, Loja 1, Sai, Zona Industrial - CEP.: 71200-110",
+    "cidade": "Brasilia ",
+    "estado": "Distrito Federal"
+  },
+  {
+    "loja_id": 52,
+    "loja": "Ceilândia",
+    "endereco": "QNM 11, LOTE 06, MEZANINO, LOJAS 1 A 10, PARTE 1 - CEP.: 72215-110",
+    "cidade": "Ceilândia",
+    "estado": "Distrito Federal"
+  },
+  {
+    "loja_id": 101,
+    "loja": "Taguatinga Areal",
+    "endereco": "QS -9 - Rua 100 Lote 04 - s/n - Areal Aguas Claras - CEP: 71976-300",
+    "cidade": "Brasilia ",
+    "estado": "Distrito Federal"
+  },
+  {
+    "loja_id": 306,
+    "loja": "Taguatinga Shopping (Projeto Olimpo)",
+    "endereco": "Q QS 3 Rua 420 S/N Lote 4 Areal - CEP: 71953-100",
+    "cidade": "Brasilia ",
+    "estado": "Distrito Federal"
+  },
+  {
+    "loja_id": 324,
+    "loja": "Serra",
+    "endereco": "Av Iriri nº 120 - CEP: 29162-739",
+    "cidade": "Serra",
+    "estado": "Espírito Santo"
+  },
+  {
+    "loja_id": 194,
+    "loja": "Anapolis",
+    "endereco": "Avenida Universitária, 765 QD LT Reciclegem - Jardim Bandeirante - CEP: 75.083-035",
+    "cidade": "Anápolis",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 214,
+    "loja": "Caldas Novas",
+    "endereco": "AV SANTO AMARO Nº 1697 - SOLAR DE CALDAS NOVAS - CALDAS NOVAS- CEP: 75696-057",
+    "cidade": "Caldas Novas",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 56,
+    "loja": "Goiania Buriti",
+    "endereco": "Av. Padre Orlando Morais, 2127 - QUADRAAREA LOTE A  - Parque Amazonas - CEP.: 74843-20",
+    "cidade": "Goiania",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 84,
+    "loja": "Goiania Independência",
+    "endereco": "Av Independência, S/N QUADRA139 LOTE AREA 01 DESM. AREA 139  - Setor Central - CEP:74055-055",
+    "cidade": "Goiania",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 140,
+    "loja": "Goiania Perimetral",
+    "endereco": "Avenida Perimetral Norte, Qd 03 Lote 1/2/3 - Setor Vila João Braz - CEP 74.445-190",
+    "cidade": "Goiania",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 310,
+    "loja": "Goiânia Portugal",
+    "endereco": "Av Portugal S/N Quadra L 22 - CEP 74150-030",
+    "cidade": "Goiania",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 105,
+    "loja": "Goiânia T9",
+    "endereco": "Av Milão s/n Quadra 50/51 Lote 1 e Lote 1/15 e 1/19 -   Jardim Europa - CEP: 74325-030",
+    "cidade": "Goiania",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 111,
+    "loja": "Rio Verde",
+    "endereco": "R MARGINAL - S/N- LOTE A E B  - PERIMETRO URBANO - CEP: 75.906-717",
+    "cidade": "Rio Verde",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 117,
+    "loja": "Valparaíso",
+    "endereco": "R da BR-040 (quadras 01 e 02), s/n. - Parque Rio Branco - CEP: 72870-001",
+    "cidade": "Valparaíso de Goiás",
+    "estado": "Goiás"
+  },
+  {
+    "loja_id": 172,
+    "loja": "Imperatriz",
+    "endereco": "Rod BR 010 KM12 - CEP: 65909-170",
+    "cidade": "Imperatriz",
+    "estado": "Maranhão"
+  },
+  {
+    "loja_id": 193,
+    "loja": "São Luis Guajajaras",
+    "endereco": "Avenida Guajajaras, 270 - São Bernardo - CEP: 65.056-045",
+    "cidade": "São Luis",
+    "estado": "Maranhão"
+  },
+  {
+    "loja_id": 141,
+    "loja": "São Luis Turu",
+    "endereco": "Av São Luis Rei de Franca S/N Anexo Área H3 -  Turu -CEP: 65065-470",
+    "cidade": "São Luis",
+    "estado": "Maranhão"
+  },
+  {
+    "loja_id": 311,
+    "loja": "São Luiz Angelim ",
+    "endereco": "Av Jerônimo de Alburquerque Maranhão nº 260 Loja - CEP: 65063-395",
+    "cidade": "São Luís",
+    "estado": "Maranhão"
+  },
+  {
+    "loja_id": 57,
+    "loja": "Cuiabá Coxipó",
+    "endereco": "Av. Fernando Correa da Costa, 4875- Coxipó - CEP: 78080-300",
+    "cidade": "Cuiabá",
+    "estado": "Mato Grosso"
+  },
+  {
+    "loja_id": 192,
+    "loja": "Cuiabá Jd Américas",
+    "endereco": "Av Fernando Correa da Costa nº 1255 - Jartdfim das Américas CEP: 78060-600",
+    "cidade": "Cuiabá",
+    "estado": "Mato Grosso"
+  },
+  {
+    "loja_id": 102,
+    "loja": "Rondonópolis",
+    "endereco": "Av. Presidente Medici, 4269 Lote 4A, 4B e 4D - Vila Birigui - CEP: 78.705-000",
+    "cidade": "Rondonópolis",
+    "estado": "Mato Grosso"
+  },
+  {
+    "loja_id": 216,
+    "loja": "Rondonópolis Bandeirantes",
+    "endereco": "Av João Ponce de Arruda nº 4362 - Centro - CEP:78700-260",
+    "cidade": "Rondonópolis",
+    "estado": "Mato Grosso"
+  },
+  {
+    "loja_id": 180,
+    "loja": "Sinop ",
+    "endereco": "Av. Dos Jacarandas nº 4030 R.1 Quadra 019 Lote 999 - CEP: 78557-094",
+    "cidade": "Sinop",
+    "estado": "Mato Grosso"
+  },
+  {
+    "loja_id": 70,
+    "loja": "Varzea Grande",
+    "endereco": "Avenida Dom Orlando Chaves S/N- Cristo Rei - CEP: 78.118-000",
+    "cidade": "Várzea Grande",
+    "estado": "Mato Grosso"
+  },
+  {
+    "loja_id": 97,
+    "loja": "Campo Grande Aeroporto",
+    "endereco": "Avenida Duque de Caxias, 3200  - Santo Antonio - CEP: 79.101-000",
+    "cidade": "Campo Grande",
+    "estado": "Mato Grosso do Sul"
+  },
+  {
+    "loja_id": 92,
+    "loja": "Cpo Grande Acrissul",
+    "endereco": "AV FABIO ZAHRAN 7.919 - JARDIM AMERICA  -  CEP: 79.080-761   ",
+    "cidade": "Campo Grande",
+    "estado": "Mato Grosso do Sul"
+  },
+  {
+    "loja_id": 80,
+    "loja": "Cpo Grande Cel Antonino",
+    "endereco": "Av. Consul Assaf Trad, S/N. PARTE 1 - Mata do Jacinto - CEP: 79.033-005",
+    "cidade": "Campo Grande",
+    "estado": "Mato Grosso do Sul"
+  },
+  {
+    "loja_id": 100,
+    "loja": "Dourados ",
+    "endereco": "Rua Coronel Ponciano de Mattos Pereira, 785  - Conjunto Habitacional Terra Roxa - CEP: 79.840-505",
+    "cidade": "Dourados",
+    "estado": "Mato Grosso do Sul"
+  },
+  {
+    "loja_id": 261,
+    "loja": "Belo Horizonte Belvedere  (Projeto Olimpo)",
+    "endereco": "Rua Maria Luiza Santiago nº 110 - Santa Lúcia- CEP: 30360-740",
+    "cidade": "Belo Horizonte",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 287,
+    "loja": "Belo Horizonte Centro (Projeto Olimpo)",
+    "endereco": "Av Francisco Sales nº 898 - Santa Efigência- CEP: 31050-222",
+    "cidade": "Belo Horizonte",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 213,
+    "loja": "Betim",
+    "endereco": "Av Juiz Marco Tulio Isaac  Nº 3355 Lote AR 01, Quadra AR 01 - Parque das industrias - CEP:32671-345",
+    "cidade": "Betim",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 108,
+    "loja": "Contagem",
+    "endereco": "AV JOAO CESAR DE OLIVEIRA 4321 QUADRA20 LOTE B2, NOVO ELDORADO - CEP: 32.341-000",
+    "cidade": "Contagem",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 247,
+    "loja": "Ipatinga",
+    "endereco": "Av Pedro Linhares Gomes, 5.765 - Industrial - CEP: 35160-291",
+    "cidade": "Ipatinga",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 283,
+    "loja": "Minas Shopping",
+    "endereco": "Av Cristiano Machado nº 4000 - União - CEP: 31160-900",
+    "cidade": "Belo Horizonte",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 249,
+    "loja": "Sete Lagoas",
+    "endereco": "Av. Doutor Renato Azeredo,Nº 2.575 - Canaa - CEP: 35700-312",
+    "cidade": "Sete Lagoas",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 158,
+    "loja": "Uberlândia",
+    "endereco": "Av Governador Rondon Pacheco, 755 - Tabajaras - CEP: 38.400-242",
+    "cidade": "Uberlândia",
+    "estado": "Minas Gerais"
+  },
+  {
+    "loja_id": 135,
+    "loja": "Ananindeua",
+    "endereco": "Rod BR 316, 1760 - KM 09 N 1760 A - Centro - CEP: 67033-010",
+    "cidade": "Ananindeua",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 118,
+    "loja": "Belém",
+    "endereco": "Rod Mario Covas, 69 - Coqueiro  - CEP: 66650-000",
+    "cidade": "Belém",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 252,
+    "loja": "Belém Almirante",
+    "endereco": "Av Almirante Barroso, 5.386 - Castanheira -CEP: 66645-250",
+    "cidade": "Belém",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 235,
+    "loja": "Belém Batista Campos ",
+    "endereco": "Av Conselheiro Furtado nº 76  - Batista Campos - CEP: 66025-160",
+    "cidade": "Belém",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 169,
+    "loja": "Castanhal",
+    "endereco": "Av. Presidente Getulio Vargas, 5600 Jaderlandia- CEP: 68.745-000",
+    "cidade": "Castanhal",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 187,
+    "loja": "Parauapebas",
+    "endereco": "ROD PA 275 , S/N GLEBA CARAJAS III - CEP: 68.515-000",
+    "cidade": "Parauapebas",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 191,
+    "loja": "Santarem Conquista",
+    "endereco": "AV ENGENHEIRO FERNANDO GUILHON - S/N - AMPARO  CEP: 68.035-000",
+    "cidade": "Santarém",
+    "estado": "Pará"
+  },
+  {
+    "loja_id": 83,
+    "loja": "Campina Grande",
+    "endereco": "Av Jornalista Assis Chateaubriand 1110  - PARTE 1 - Liberdade - CEP: 58414-060",
+    "cidade": "Campina Grande",
+    "estado": "Paraíba"
+  },
+  {
+    "loja_id": 305,
+    "loja": "Campina Grande II",
+    "endereco": "Av Prefeito Severino Cabral nº 1339 Loja 1 - Mirante - CEP 58407-660",
+    "cidade": "Paraíba",
+    "estado": "Paraíba"
+  },
+  {
+    "loja_id": 300,
+    "loja": "Epitácio Pessoa (Projeto Olimpo )",
+    "endereco": "Av Presidente Epitácio Pessoa nº 1277, Loja 101Estados CEP: 58030-000",
+    "cidade": "João Pessoa",
+    "estado": "Paraíba"
+  },
+  {
+    "loja_id": 77,
+    "loja": "João Pessoa",
+    "endereco": "Rua Motorista Aldovandro Amâncio Pereira, nº 51, Parte 1, Pres. Ernesto Geisel - CEP: 58053-000",
+    "cidade": "João Pessoa",
+    "estado": "Paraíba"
+  },
+  {
+    "loja_id": 207,
+    "loja": "João Pessoa Cabedelo",
+    "endereco": "Rod BR 230 S/N Lote R1 Prop Boi So -Parque Esperança -  CEP: 58102-502",
+    "cidade": "João Pessoa",
+    "estado": "Paraíba"
+  },
+  {
+    "loja_id": 195,
+    "loja": "Curitiba - JK",
+    "endereco": "Avenida Juscelino Kubitshek de Oliveira, 2511 - CEP: 81.270-200",
+    "cidade": "Curitiba",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 259,
+    "loja": "Curitiba Alto da XV (Projeto Olimpo)",
+    "endereco": "Av Marechal Humberto de Alencar C Branco nº 230  - Cristo Rei- CEP: 82530-195",
+    "cidade": "Curitiba",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 229,
+    "loja": "Curitiba Atuba",
+    "endereco": "Rod BR-476, Nº 1.801 - Atuba - CEP: 81460-090",
+    "cidade": "Curitiba",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 257,
+    "loja": "Curitiba Kennedy  (Projeto Olimpo)",
+    "endereco": "Av Presidente kennedy nº 1000 - Água Verde- CEP: 80220-202",
+    "cidade": "Curitiba",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 99,
+    "loja": "Curitiba Pinheinrinho",
+    "endereco": "Rod BR - 116 Nº 18.580 - Pinheirinho - CEP: 81.690-400",
+    "cidade": "Curitiba",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 314,
+    "loja": "Foz do Iguaçu",
+    "endereco": "Av Paraná nº 4195 - CEP: 85864-455",
+    "cidade": "Foz do Iguaçu",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 71,
+    "loja": "Londrina  Tiradentes",
+    "endereco": "Avenida Tiradentes 4650 Quadra 104- Lote 104-1- JARDIM ROSICLER  - CEP: 86.072-000",
+    "cidade": "Londrina ",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 162,
+    "loja": "Londrina Saul",
+    "endereco": "Av. Saul Elkind, 2211 - Conjunto Vivi Xavier - Londrina - CEP: 86.082-000",
+    "cidade": "Londrina ",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 79,
+    "loja": "Maringá Colombo",
+    "endereco": "Rua Rubens Sebastião Marin 1820- Parque Industrial-  Paraná-  CEP: 87.045-020",
+    "cidade": "Maringá ",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 215,
+    "loja": "Maringá Seminário",
+    "endereco": "Av Colombo nº 9322 Lote 1B, Lote 1C, Lote 1D - Gleba Patrimônio Maringá - CEP:87070-000",
+    "cidade": "Maringá ",
+    "estado": "Paraná"
+  },
+  {
+    "loja_id": 204,
+    "loja": "Avenida Recife",
+    "endereco": "Av Recife nº 5.777 - Jardim São Paulo - CEP:50910-380",
+    "cidade": "Recife ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 262,
+    "loja": "Boa Viagem (Projeto Olimpo)",
+    "endereco": "Av Engenheiro Domingos Ferreira nº 1818 - Boa Viagem- CEP: 51111-020",
+    "cidade": "Recife",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 198,
+    "loja": "Cabo de Santo Agostinho",
+    "endereco": "Rod PE 60, 2520 - Garapu - CEP:54.518-343",
+    "cidade": "Cabo de Santo Agostinho",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 119,
+    "loja": "Camaragibe",
+    "endereco": "Av. Doutor Belmino Correia, 681 - Bairro Novo do Carmelo - CEP: 54.762-303",
+    "cidade": "Camaragibe ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 46,
+    "loja": "Caruaru Centro",
+    "endereco": "Rua Capitão João Velho, 09 - Nossa Senhora das Dores - CEP.: 55002-400",
+    "cidade": "Caruaru ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 163,
+    "loja": "Caruaru Petropólis",
+    "endereco": "Avenida João de Barros, S/N Quadra 13 - Petropolis - CEP.: 55030-280",
+    "cidade": "Caruaru ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 91,
+    "loja": "Garanhuns",
+    "endereco": "Av. Prefeito Luiz Souto Dourado, 1102 - Severiano Moraes Filho - CEP: 55.297-320",
+    "cidade": "Garanhuns ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 107,
+    "loja": "Imbiribeira",
+    "endereco": "Av. Marechal Mascarenhas de Moraes, 2056  - Imbiribeira -  CEP: 51.180-001",
+    "cidade": "Recife ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 44,
+    "loja": "Jaboatão",
+    "endereco": "Av. Barreto de Menezes, 434, Piedade - CEP.: 64310-310 ",
+    "cidade": "Jaboatão dos Guararapes",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 109,
+    "loja": "Paulista ",
+    "endereco": "Rod BR 101, 5800 - n° 58 Arthur Lundgren- CEP: 53.416-710",
+    "cidade": "Paulista",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 250,
+    "loja": "Petrolina",
+    "endereco": "Av Sete de Setembro, S/N, Anexo Área 2 A 1 - Antonio Cassimiro - CEP: 56330-900",
+    "cidade": "Petrolina",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 138,
+    "loja": "Serra Talhada",
+    "endereco": "AV WALDEMAR IGNACIO DE OLIVEIRA S/N, TERRENO QUADRAC LOTE 17 BOM JESUS - CEP: 56.906-010 ",
+    "cidade": "Serra Talhada ",
+    "estado": "Pernambuco"
+  },
+  {
+    "loja_id": 304,
+    "loja": "Nova Teresina Kennedy (Projeto Olimpo)",
+    "endereco": "Av Presidente Kennedy nº 501 - São Cristovão - CEP: 64052-345",
+    "cidade": "Teresina ",
+    "estado": "Piauí"
+  },
+  {
+    "loja_id": 186,
+    "loja": "Parnaíba",
+    "endereco": "Rodovia BR 343, 3.775 Setor 06 QD 029 LT636 - João XXIII - CEP: 64.205-200",
+    "cidade": "Parnaíba ",
+    "estado": "Piauí"
+  },
+  {
+    "loja_id": 182,
+    "loja": "Picos ",
+    "endereco": "ROD BR-316 S/N - BELO NORTE - CEP: 64.603-000",
+    "cidade": "Picos ",
+    "estado": "Piauí"
+  },
+  {
+    "loja_id": 134,
+    "loja": "Teresina Dirceu",
+    "endereco": "Rua Jacinto Rufino Macedo 1000 - São Raimundo - CEP: 64.075-080",
+    "cidade": "Teresina ",
+    "estado": "Piauí"
+  },
+  {
+    "loja_id": 228,
+    "loja": "Teresina Raul Lopes",
+    "endereco": "Av Raul Lopes nº 2757 Lote 11 A, Lote 11 B, Lote 11 C - Ininga - CEP:64049-560",
+    "cidade": "Teresina ",
+    "estado": "Piauí"
+  },
+  {
+    "loja_id": 221,
+    "loja": "Araruama",
+    "endereco": "Av Getulio Vargas S/N  - Picada - CEP:28970-000",
+    "cidade": "Araruama",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 133,
+    "loja": "Ayrton Senna",
+    "endereco": "Av Ayrton Senna, 6000 - Lot 2 Pal 48959 - Jacarepagua - CEP: 22.775-005",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 55,
+    "loja": "Bangu",
+    "endereco": "RUA FRANCISCO REAL, 2050, BANGU- CEP.: 21810-042",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 245,
+    "loja": "Barra da Tijuca",
+    "endereco": "Av das Americas, Nº 900 - Barra da Tijuca - CEP: 22793-081",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 294,
+    "loja": "Boulevard  (Projeto Olimpo)",
+    "endereco": "Rua Maxwell nº 300 Suplem Rua A da Costa n/] 201 - Vila Isabel- CEP: 20541-100",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 82,
+    "loja": "Cabo Frio",
+    "endereco": "Avenida America Central, 900 - São Cristovao -  CEP: 28.909-582",
+    "cidade": "Cabo Frio ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 37,
+    "loja": "Campinho",
+    "endereco": "Rua Domingos Lopes, 195, Madureira - CEP.: 21310-120",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 188,
+    "loja": "Campos dos Goytacazes",
+    "endereco": "Avenida Doutor Nilo Pecanha, 479 - Parque Santo Amaro - CEP: 28.030-035",
+    "cidade": "Campos dos Goytacazes ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 316,
+    "loja": "Carioca (Projeto Olimpo)",
+    "endereco": "Av. Vicente de Carvalho, Nº 00909 - Vicente de Carvalho - CEP 21210-623",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 42,
+    "loja": "Ceasa",
+    "endereco": "AVN BRASIL 19201 COELHO NETO CEP.: 21012-351",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 202,
+    "loja": "Cesario Melo",
+    "endereco": "Av Cesário de Melo, nº3470 Loja A - CEP: 23050-102",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 231,
+    "loja": "Cordovil",
+    "endereco": "Rua Aricanbu nº 65 Lote 01 Pal 46344 - Cordovil - CEP:21012-050",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 131,
+    "loja": "Duque de Caxias ",
+    "endereco": "Av. Governador Leonel de Moura Brizola 2973 - Vila Centenario - CEP: 25.030-001",
+    "cidade": "Duque de Caixas",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 302,
+    "loja": "Galeão (Projeto Olimpo)",
+    "endereco": "Est do Galeão nº 2700 Parte Portuguesa CEP: 21931-582",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 29,
+    "loja": "Ilha do Governador ",
+    "endereco": "Avenida Maestro Paulo Silva, 100, Lote 1 - PAL 33068, Jardim Carioca -  CEP.: 21920-445 ",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 28,
+    "loja": "Jacarepaguá ",
+    "endereco": "ETR DE JACAREPAGUA, 07753, LOJA FREGUESIA - JACAREPAGUA - CEP.: 22753-034 ",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 232,
+    "loja": "Macaé",
+    "endereco": "Av Lacerda Agostinho s/n Lote 3 - Virgem Santa - CEP:27948-005",
+    "cidade": "Macaé",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 286,
+    "loja": "Maracanã (Projeto Olimpo)",
+    "endereco": "Rua José Higino nº 115 - Tijuca- CEP: 20520-201",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 160,
+    "loja": "Meier",
+    "endereco": "Rua Dias da Cruz 371, - Rio de Janeiro -Meier -  CEP: 20.720-010",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 65,
+    "loja": "Mendanha ",
+    "endereco": "Estrada da Mendanha, 3457- Campo Grande - CEP: 23092- 001",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 142,
+    "loja": "Mesquita/Rio Dutra",
+    "endereco": "Rodovia Presidente Dutra, 10521 - BNH - CEP: 26574-751",
+    "cidade": "Mesquita ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 36,
+    "loja": "Nilópolis",
+    "endereco": "AVENIDA GETULIO DE MOURA, 1983, CENTRO - CEP.: 26525-002",
+    "cidade": "Nilópolis ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 41,
+    "loja": "Niterói",
+    "endereco": "RUA BENJAMIN CONSTANT, 263, BARRETO - CEP.: 24110-002",
+    "cidade": "Niterói ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 292,
+    "loja": "Niteroi Ponte  (Projeto Olimpo)",
+    "endereco": "Rua Presidente Castelo Branco nº 161 - Centro- CEP: 24030-260",
+    "cidade": "Niterói ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 30,
+    "loja": "Nova Iguaçú ",
+    "endereco": "Avenida Marechal Floriano Peixoto, 1448, Parte III, Centro - CEP.: 26220-060 ",
+    "cidade": "Nova Iguaçu ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 291,
+    "loja": "Nova Iguaçu II  (Projeto Olimpo)",
+    "endereco": "Av Tancredo Neves nº 3424 - Centro- CEP: 26285-002",
+    "cidade": "Nova Iguaçú",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 181,
+    "loja": "Petrópolis",
+    "endereco": "Estrada União e Indústria, 870 - Roseiral - CEP: 25715-131",
+    "cidade": "Petrópolis",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 128,
+    "loja": "Pilares",
+    "endereco": "Av. Dom Helder Camara, nº 6.350 - Pilares - CEP: 20771-001",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 136,
+    "loja": "Sabão Português",
+    "endereco": "Avenida Brasil, nº 2.251 - São Cristóvão - CEP: 20930-041",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 201,
+    "loja": "Santa Cruz",
+    "endereco": "Av Padre Miguel Decaminada Nº 2385 - Santa Cruz - CEP: 23575-000",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 211,
+    "loja": "São Gonçalo Alberto Torres",
+    "endereco": "Rua Doutor Alberto Torres, S/N - Porto Velho - São Gonçalo/RJ - CEP: 24426-435.",
+    "cidade": "São Gonçalo ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 35,
+    "loja": "São Gonçalo Alcantara",
+    "endereco": "Rua Doutor Alfredo Backer, 605, Alcântara  - CEP.: 24452-001",
+    "cidade": "São Gonçalo ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 293,
+    "loja": "São Gonçalo Alcântara  (Projeto Olimpo)",
+    "endereco": "Est Raul Veiga nº 243  - Raul Veiga- CEP: 24710-480",
+    "cidade": "São Gonçalo ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 266,
+    "loja": "São Gonçalo Centro (Projeto Olimpo)",
+    "endereco": "Av Presidente Kennedy, nº 429 - Centro- CEP: 24445-000",
+    "cidade": "São Gonçalo",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 248,
+    "loja": "São Gonçalo Tribobó",
+    "endereco": "Av Fued Moises, n° 114 - Tribobó - CEP: 24755-030",
+    "cidade": "São Gonçalo ",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 217,
+    "loja": "São João do Meriti",
+    "endereco": "Rod Presidente Dutra Nº 4301 - Jardim José Bonifácio  CEP: 25515-230",
+    "cidade": "São João do Meriti",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 150,
+    "loja": "Tijuca Mariz e Barros",
+    "endereco": "Rua Matriz e Barros nº 975 - Sup H Beltrão - CEP: 20270-004",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro"
+  },
+  {
+    "loja_id": 268,
+    "loja": "Maria Lacerda (Projeto Olimpo)",
+    "endereco": "Av Maria Lacerda Montenegro, nº 900 - Nova Parnamirim- CEP: 59152-600",
+    "cidade": "Parnamirim",
+    "estado": "Rio Grande do Norte"
+  },
+  {
+    "loja_id": 333,
+    "loja": "Mossoró RN",
+    "endereco": "Av. Wilson Rosado, 2580 - Abolição - CEP 59612-625",
+    "cidade": "Mossoró",
+    "estado": "Rio Grande do Norte"
+  },
+  {
+    "loja_id": 114,
+    "loja": "Natal",
+    "endereco": "Av. Dão Silveira, s/n - PARTE 1  - CANDELARIA  - CEP: 59066-180",
+    "cidade": "Natal ",
+    "estado": "Rio Grande do Norte"
+  },
+  {
+    "loja_id": 120,
+    "loja": "São Gonçalo do Amarante",
+    "endereco": "Av. Bacharel Tomaz Landim, s/n - Jardim Lola - CEP: 59.290-000",
+    "cidade": "São Gonçalo do Amante ",
+    "estado": "Rio Grande do Norte"
+  },
+  {
+    "loja_id": 175,
+    "loja": "Porto Velho",
+    "endereco": "Rua da Beira, 6881 - Lagoa - CEP: 76.812.241",
+    "cidade": "Porto Velho ",
+    "estado": "Rondônia"
+  },
+  {
+    "loja_id": 222,
+    "loja": "Porto Velho Imigrantes",
+    "endereco": "Av dos Imigrantes nº 4045 - Industrial - CEP:76821-063",
+    "cidade": "Porto Velho ",
+    "estado": "Rondônia"
+  },
+  {
+    "loja_id": 197,
+    "loja": "Boa Vista",
+    "endereco": "Avenida Brasil, 616 - Pricuma - CEP: 69.309-575",
+    "cidade": "Boa Vista ",
+    "estado": "Roraima"
+  },
+  {
+    "loja_id": 279,
+    "loja": "Aeroporto Congonhas (Projeto Olimpo)",
+    "endereco": "Av Washington Luís nº 5859 - Santo Amaro- CEP: 04627-901",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 49,
+    "loja": "Águia de Haia",
+    "endereco": "Av. Águia de Haia, 2636, Loja 1, Parque Paineiras - CEP.: 03694-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 272,
+    "loja": "Anhanguera (Projeto Olimpo)",
+    "endereco": "Rua Samuel Klabin nº 193  - Bela Aliança- CEP: 05077-903",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 174,
+    "loja": "Araçatuba ",
+    "endereco": "Avenida Waldemar Alves nº 230, Bairro São Vicente, CEP 16050-005",
+    "cidade": "Araçatuba ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 278,
+    "loja": "Araraquara (Projeto Olimpo)",
+    "endereco": "Av José Bonifácio nº 483  - Centro- CEP: 14801-150",
+    "cidade": "Araraquara",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 144,
+    "loja": "Aricanduva",
+    "endereco": "Avenida Aricanduva, 5555 Ancora Assai - Vila Aricanduva - CEP: 03.527-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 45,
+    "loja": "Barra Funda",
+    "endereco": "Av. Marques de São Vicente, 1340/1354 - Barra Funda - CEP.: 01139-002",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 61,
+    "loja": "Bauru",
+    "endereco": "R GENERAL MARCONDES SALGADO QUADRA 8-55, ESQUINA COM AVENIDA DAS NACOES UNIDAS PARTE 1 - Centro - CEP.: 17010-040",
+    "cidade": "Bauru ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 165,
+    "loja": "Bras Cubas",
+    "endereco": "AV HENRIQUE PERES 1.330 - VILA BERNADOTTI -CEP: 08.735-400",
+    "cidade": "Mogi das Cruzes ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 312,
+    "loja": "Campinas abolição",
+    "endereco": "Rua da Abolição nº 2013 - CEP 13041-912",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 39,
+    "loja": "Campinas Amoreiras",
+    "endereco": "Av. Ruy Rodrigues, 1400 - Amoreiras - CEP.: 13060-192",
+    "cidade": "Campinas ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 154,
+    "loja": "Campinas Centro ",
+    "endereco": "Av. Senador Saraiva, 835 - Centro -CEP: 13.013.061",
+    "cidade": "Campinas ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 25,
+    "loja": "Caraguatatuba ",
+    "endereco": "Av. Prisciliana de Castilho, 840 - Caputera - CEP.: 11660-971",
+    "cidade": "Caraguatatuba ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 96,
+    "loja": "Carapicuiba",
+    "endereco": "Av Desembargador Doutor Eduardo Cunha de Abreu 1455, Vila Municipal - CEP: 06.328-330",
+    "cidade": "Carapicuiba ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 2,
+    "loja": "Casa Verde ",
+    "endereco": "Av. Engenheiro Caetano Alvares, n.º 1927 - Casa Verde  CEP.: 02546-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 155,
+    "loja": "Cidade Dutra ",
+    "endereco": "Av. Senador Teotonio Vilela 2962 - Cidade Dutra - CEP: 04801-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 15,
+    "loja": "Cotia",
+    "endereco": "Estrada do Embu , 162 - Jardim Torino  -  CEP.: 067713-100",
+    "cidade": "Cotia ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 282,
+    "loja": "Cotia Centro (Projeto Olimpo)",
+    "endereco": "Av. Professor José Barreto, Nº 1635 - Jardim Dinorah - CEP 06703-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 156,
+    "loja": "Diadema",
+    "endereco": "Av Piraporinha 1144, Vila Nogueira - CEP: 09.950-000",
+    "cidade": "Diadema ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 149,
+    "loja": "Embu das Artes ",
+    "endereco": "Av Elias Yazbek, 1183 - Tingidor - CEP: 06.803-002",
+    "cidade": "Embú das Artes ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 89,
+    "loja": "Fernão Dias",
+    "endereco": "Rodovia Fernão Dias S/N - PARTE 1 - Parque Edu Chaves - CEP: 02.283.000  ",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 127,
+    "loja": "Franco da Rocha",
+    "endereco": "Rod Luiz Samuel Chama S/N Gleba B Lote Area 8  B - CEP: 07857-050",
+    "cidade": "Franco da Rocha",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 285,
+    "loja": "Freguesia do Ó II (Projeto Olimpo)",
+    "endereco": "Av NSRA do Ó Nº 1759 - Limão- CEP: 02715-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 60,
+    "loja": "Guaianases",
+    "endereco": "Estrada Dom João Nery, 4.031 - Jardim Bartira  - CEP.: 08151-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 276,
+    "loja": "Guaianases Estação (Projeto Olimpo)",
+    "endereco": "Est Itaquera Guaianases nº 2671 - Parque Central- CEP: 08420-495",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 258,
+    "loja": "Guarulhos Bosque Maia",
+    "endereco": "Av Salgado Filho nº 1301, Centro - Centro- CEP: 07115-000",
+    "cidade": "Guarulhos",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 271,
+    "loja": "Guarulhos Centro (Projeto Olimpo)",
+    "endereco": "Av Antônio de Souza nº 300  - Centro - CEP: 07013-090",
+    "cidade": "Guarulhos",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 86,
+    "loja": "Guarulhos Jamil",
+    "endereco": "Rua Jamil João Zarif, 689 - Jardim Santa Vicencia - CEP.: 07.143-000",
+    "cidade": "Guarulhos",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 173,
+    "loja": "Hortolândia",
+    "endereco": "Rua Luiz Camilo de Camargo S/N Quadra G Gleba A - Loteamento Remanso - CEP:13184-420",
+    "cidade": "Hortolândia ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 178,
+    "loja": "Indaiatuba",
+    "endereco": "AV FRANCISCO DE PAULA LEITE - 2242 - QUADRA LOTE A - PARQUE DAS NAÇÕES - CEP: 13.346-055",
+    "cidade": "Indaiatuba ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 269,
+    "loja": "Interlagos (Projeto Olimpo)",
+    "endereco": "Av Sarg Geraldo Santa'ana, nº 1491 - Jardim Taquaral- CEP: 04674-225",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 233,
+    "loja": "Itapevi",
+    "endereco": "Rod Engenheiro Rene Benedito da Silva nº 977 - São João - CEP:06683-000",
+    "cidade": "Itapevi",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 75,
+    "loja": "Itaquaquecetuba",
+    "endereco": "Rodovia João Afonso de Souza Castellano, nº 3810 - Vila Ursulina - CEP: 08574-000",
+    "cidade": "Itaquaquecetuba",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 19,
+    "loja": "Itaquera ",
+    "endereco": "Av. Sylvio Torres, 190 - Conj. Habitacional Padre José de Anchieta - CEP.: 03589-010",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 295,
+    "loja": "Itatiba  (Projeto Olimpo)",
+    "endereco": "Av Luiz Emmanoel Bianchi nº 120 - Lt. Jd. Lucca, de- CEP: 13255-170",
+    "cidade": "Itatiba",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 31,
+    "loja": "Jabaquara",
+    "endereco": "Rua Taquaruçu, 79 - Jabaquara - CEP.: 04346-040",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 20,
+    "loja": "Jaçanã ",
+    "endereco": "Av. Luis Stamatis, 35 - Vila Constança  -  CEP.: 02260-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 124,
+    "loja": "Jacu Pessego",
+    "endereco": "Avenida Jacu - Pessego 750 - Vila Jacui - CEP: 08260-005",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 22,
+    "loja": "Jaguaré",
+    "endereco": "Av. Jaguaré, 925 - Jaguaré - CEP.: 05346-000 ",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 273,
+    "loja": "Jaguaré Corifeu (Projeto Olimpo)",
+    "endereco": "Av Corifeu de Azevedo Marques nº 4160 - Vila  Lajeado- CEP: 05340-002",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 151,
+    "loja": "Jandira",
+    "endereco": "Avenida Alziro Soares, 20 - Nucleo Micro Industrial Presidente Wilson - CEP: 06602-000",
+    "cidade": "Jandira ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 126,
+    "loja": "Jaraguá / Taipas",
+    "endereco": "Avenida Raimundo Pereira de Magalhães 10535 - Parte 1 - Jardim Lider - CEP: 02.983-055",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 18,
+    "loja": "João Dias ",
+    "endereco": "Av. Guido Caloi, 25 - Jd. São Luis  - CEP.: 05802-140 ",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 12,
+    "loja": "Jundiaí ",
+    "endereco": "Rua Quinze de Novembro, 430 - Centro  - CEP.: 13201-005",
+    "cidade": "Jundiaí ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 200,
+    "loja": "Jundiaí Ferroviários",
+    "endereco": "Av União dos Ferroviários nº 2.940 - Ponte de Campinas - CEP: 13201-160",
+    "cidade": "Jundiaí ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 21,
+    "loja": "Limeira ",
+    "endereco": "Largo José Bonifácio, 149, Centro - CEP.: 13480-158",
+    "cidade": "Limeira ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 246,
+    "loja": "Limeira II",
+    "endereco": "Via Antonio Cruanes Filho, Nº 4.750, Jardim Colinas de São João - CEP: 13481-287",
+    "cidade": "Limeira ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 254,
+    "loja": "Marginal Tietê Tatuapé",
+    "endereco": "Rua Ulisses Cruz,nº 993 Lote A - CEP: 03077-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 161,
+    "loja": "Mauá ",
+    "endereco": "Av. Antonia Rosa Fioravanti, 3270 - Jardim Rosina -  - CEP: 09390-120",
+    "cidade": "Mauá ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 81,
+    "loja": "Mogi das Cruzes",
+    "endereco": "Av. Jose Meloni, 998- Vila Mogilar - CEP: 08773-120",
+    "cidade": "Mogi das Cruzes ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 265,
+    "loja": "Mogilar (Projeto Olimpo)",
+    "endereco": "Av Prefeiro Carlos Ferreira Lopes nº 600 - Vila Mogilar- CEP: 08773-490",
+    "cidade": "Mogi das Cruzes",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 260,
+    "loja": "Mooca (Projeto Olimpo)",
+    "endereco": "Rua Javari nº 403 - Mooca- CEP: 03112-100",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 199,
+    "loja": "Nações Unidas",
+    "endereco": "Av. das Nações Unidas, nº 22777 - Vila Almeida - CEP:04795-100",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 32,
+    "loja": "Nordestina",
+    "endereco": "Av. Nordestina, n.º 3.077 - São Miguel Paulista - CEP.: 08032-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 9,
+    "loja": "Osasco ",
+    "endereco": "Avenida dos Autonomistas, 1.687 - Vila Yara  -  CEP.: 06020-015",
+    "cidade": "Osasco ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 168,
+    "loja": "Paulinia",
+    "endereco": "Av. José Paulino, 2600 - Jardim América - CEP: 13.140-707",
+    "cidade": "Paulínia ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 53,
+    "loja": "Penha - Marginal Tietê",
+    "endereco": "Av. Condessa Elisabeth de Robiano, 5500, Bloco A, Jardim America da Penha - CEP.: 03704-900",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 275,
+    "loja": "Penha Tiquatira (Projeto Olimpo)",
+    "endereco": "Av São Miguel nº 962 - Vila Marieta- CEP: 03620-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 167,
+    "loja": "Piracicaba Centro",
+    "endereco": "Rua Regente Feijó, 823 - Centro - CEP: 13.400-100",
+    "cidade": "Piracicaba ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 244,
+    "loja": "Piracicaba Nova América",
+    "endereco": "Av Antônio Fazanaro nº 95 - Pauliceia - CEP: 13424-022",
+    "cidade": "Piracicaba ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 93,
+    "loja": "Pirajussara",
+    "endereco": "Av. Ibirama n°51 Parque Industrial Daci - CEP: 06.785-300",
+    "cidade": "Taboão da Serra ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 104,
+    "loja": "Praia Grande Glória",
+    "endereco": "Av. Ministro Marcos Freire 1600, QUADRA 04 LOTE 06 - Gloria -CEP.: 11724-205",
+    "cidade": "Praia Grande ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 38,
+    "loja": "Praia Grande Kenedy",
+    "endereco": "Av. Presidente Kennedy, 9271 -PARTE 1  - MIRIM - CEP.: 11705-000",
+    "cidade": "Praia Grande ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 59,
+    "loja": "Praia Grande Litoral Plaza",
+    "endereco": "Av. Ayrton Senna da Silva, 1511, Parte ii, Tude Bastos  CEP.: 11726-000",
+    "cidade": "Praia Grande ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 73,
+    "loja": "Presidente Prudente",
+    "endereco": "Av. Joaquim Constantino, 3025, Vila Nova Prudente, Presidente Prudente - CEP.: 19053-300",
+    "cidade": "Presidente Prudente ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 270,
+    "loja": "Raposo Tavares (Projeto Olimpo)",
+    "endereco": "Av Mal Fiuza de Castro nº 239 KM14 - Jardim Pinheiros- CEP: 05596-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 14,
+    "loja": "Ribeirão Parque Industrial",
+    "endereco": "Av. Presidente Castelo Branco, 2395 - Parque Industrial Lagoinha  -CEP.: 14095-000",
+    "cidade": "Ribeirão Preto",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 58,
+    "loja": "Ribeirão Pires",
+    "endereco": "Av. Francisco Monteiro, 1941- Vila Maria-  CEP.: 09400-310",
+    "cidade": "Ribeirão Pires ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 240,
+    "loja": "Ribeirão Preto Castelo Branco",
+    "endereco": "Av Presidente Castelo Branco nº 50 - Jardim Castelo Branco - CEP:14091-285",
+    "cidade": "Ribeirão Preto",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 63,
+    "loja": "Ribeirão Preto Rotatória",
+    "endereco": "Av. Treze de Maio, 92/94/96, Jardim Paulista - CEP.: 14090-260",
+    "cidade": "Ribeirão Preto",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 301,
+    "loja": "Ribeirão Preto Vargas (Projeto Olimpo)",
+    "endereco": "Av Presidente Vargas nº 1617Jardim Irajá CEP: 14020-277",
+    "cidade": "Ribeirão Preto",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 24,
+    "loja": "Rio Claro ",
+    "endereco": "Av.Tancredo Neves , 450 - Jardim Clarete - CEP.: 13503-183",
+    "cidade": "Rio Claro ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 237,
+    "loja": "Santa Bárbara D'oeste",
+    "endereco": "Rua da Agricultura nº 1258 - Loteamento Industrial - CEP:13454-000",
+    "cidade": "Santa Bárbara D'oeste",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 166,
+    "loja": "Santa Catarina",
+    "endereco": "Av. Santa Catarina, 1672 - Vila Mascote - CEP: 04.378-100",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 16,
+    "loja": "Santo André ",
+    "endereco": "Av. Visconde de Taunay, 216 – Centro  -  CEP.: 09210-570",
+    "cidade": "Santo André",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 123,
+    "loja": "Santo André Bala Juquinha",
+    "endereco": "Avenida dos Estados, 1155 - Vila Metalurgica - CEP.: 09220-570",
+    "cidade": "Santo André",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 74,
+    "loja": "Santo André G.Pirelli",
+    "endereco": "Rua Giovanni Battista Pirelli, 1221  - Parte 1 - Vila Homero Thon-  CEP.: 09111-340",
+    "cidade": "Santo André",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 205,
+    "loja": "Santo André Pereira Barreto",
+    "endereco": "Av Pereira Barreto nº2.444 Quadra ESQ Av Lauro Gomes  - Jardim Bom Pastor - CEP:09190-210",
+    "cidade": "Santo André",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 94,
+    "loja": "Santo André V.Luzita",
+    "endereco": "Av Capitão Mario Toledo de Camargo - 5855 - Vila Luzita -  CEP: 09.171-005",
+    "cidade": "Santo André",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 7,
+    "loja": "Santos   ",
+    "endereco": "Av. Nossa Senhora de Fátima, n.º 50 - Saboo - CEP.: 11085-200",
+    "cidade": "Santos ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 313,
+    "loja": "Santos Ana Costa (Projeto Olimpo)",
+    "endereco": "Av Ana Costa nº 340 - CEP: 11060-000",
+    "cidade": "Santos ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 274,
+    "loja": "São Bernardo Anchieta Paulicéia (Projeto Olimpo)",
+    "endereco": "Rua Garcia Lorca nº 301 - Pauliceia- CEP: 09695-000",
+    "cidade": "São Bernardo do Campo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 203,
+    "loja": "São Bernardo Av, Tabõao",
+    "endereco": "Av do Taboão nº 574 - CEP: 09655-000",
+    "cidade": "São Bernardo do Campo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 10,
+    "loja": "São Bernardo Piraporinha",
+    "endereco": "Av. Piraporinha, n.º 680 - Planalto  -  CEP.: 09891-001",
+    "cidade": "São Bernardo do Campo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 48,
+    "loja": "São Caetano do Sul",
+    "endereco": "Rua Senador Vergueiro, 428/498, Loja 1 - CEP.: 09521-320",
+    "cidade": "Sâo Caetano do Sul ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 121,
+    "loja": "São José dos Campos ",
+    "endereco": "Av. Dr. Sebastião Henrique da Cunha Pontes, 4600 Quadra 24 lote 10/11 - CEP: 12.237-823",
+    "cidade": "São José dos Campos ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 267,
+    "loja": "São José dos Campos Colinas (Projeto Olimpo)",
+    "endereco": "Av Jorge Zarur nº 100 - CEP: 12242-020",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 153,
+    "loja": "São Matheus",
+    "endereco": "Av. Ragueb Chohfi, 58 - Jardim Tres Marias - CEP: 08.375-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 157,
+    "loja": "São Miguel Av São Miguel",
+    "endereco": "Av. São Miguel, 6838 - Vila Norma - CEP:08.070-002",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 3,
+    "loja": "São Miguel Mal Tito",
+    "endereco": "Av. Marechal Tito, nº1300 - São Miguel Paulista - CEP.: 08010-090",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 129,
+    "loja": "São Vicente ",
+    "endereco": "Av. Antonio Emmerick, 245 - Vila Cascatinha- CEP: 11.390-001",
+    "cidade": "São Vicente ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 17,
+    "loja": "Sapopemba ",
+    "endereco": "Av. Sapopemba, 9250 -  Jd. Planalto  CEP.: 03988-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 148,
+    "loja": "Sezefredo Fagundes",
+    "endereco": "Av. Coronel Sezefredo Fagundes, 535 - Tucuruvi - CEP: 02.306-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 50,
+    "loja": "Sorocaba (Itavuvu)",
+    "endereco": "Av. Itavuvu, 1766, Jd. Maria Antonia Prado - CEP.: 18076-005",
+    "cidade": "Sorocaba",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 263,
+    "loja": "Sorocaba Campolim (Projeto Olimpo)",
+    "endereco": "Rua Senhora Maria Aparecida Pessutti Milego nº 250 - Parque Campolim- CEP: 18048-140",
+    "cidade": "Sorocaba",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 303,
+    "loja": "Sorocaba Santa Rosália (Projeto Olimpo)",
+    "endereco": "R Maria Cinto Biaggi nº 164 - CEP: 18095-410",
+    "cidade": "Sorocaba",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 68,
+    "loja": "Suzano",
+    "endereco": "Rua Prudente de Moraes, N° 1751 - Vila Amorim- CEP: 08610-005",
+    "cidade": "Suzano ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 280,
+    "loja": "Taboão Centro (Projeto Olimpo)",
+    "endereco": "Rua João Batista de Oliveira nº 47 Centro - Taboão da Serra- CEP: 06763-450",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 112,
+    "loja": "Taboão da Serra ",
+    "endereco": "Rod Regis Bittencourt 3.040 - Centro - CEP: 06.768-000  ",
+    "cidade": "Taboão da Serra ",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 137,
+    "loja": "Tancredo Neves",
+    "endereco": "Rua Nossa Senhora das Mercês nº 29 - Vila das Mercês  CEP: 04165-000",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 130,
+    "loja": "Taubaté",
+    "endereco": "Avenida Dom Pedro I, 630 E - Terra Nova - CEP: 12081-810",
+    "cidade": "Taubaté",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 85,
+    "loja": "Teotonio Vilela",
+    "endereco": "Av. Senador Teotonio Vilela, 8.699 GL 10- Jardim Casa Grande - CEP: 04858-001",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 1,
+    "loja": "Vila Carrão",
+    "endereco": "Rua Manilha, n.º 42 - Vila Carrão CEP.: 03.445-050\t",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 8,
+    "loja": "Vila Sônia   ",
+    "endereco": "Av. Professor Francisco Morato, n.º 4367 - Vila Sônia  - CEP.: 05521-200",
+    "cidade": "São Paulo",
+    "estado": "São Paulo"
+  },
+  {
+    "loja_id": 116,
+    "loja": "Aracaju",
+    "endereco": "RUA SIMEÃO AGUIAR, N° 430 - JOSÉ CONRADO DE ARAÚJO - CEP: 49.085-410",
+    "cidade": "Aracaju ",
+    "estado": "Sergipe"
+  },
+  {
+    "loja_id": 288,
+    "loja": "Aracajú Adélia Franco (Projeto Olimpo)",
+    "endereco": "Av Adelia Franco nº 3735 - Ináio Barbosa- CEP: 49040-020",
+    "cidade": "Aracajú",
+    "estado": "Sergipe"
+  },
+  {
+    "loja_id": 183,
+    "loja": "Aracaju Sul",
+    "endereco": "Avenida Melicio Machado, 240 -  Aeroporto - CEP:49.038-443",
+    "cidade": "Aracaju ",
+    "estado": "Sergipe"
+  },
+  {
+    "loja_id": 147,
+    "loja": "Itabaiana",
+    "endereco": "AV EDUARDO PAIXAO ROCHA 1667 - PORTO - CEP: 49.510-190",
+    "cidade": "Itabaiana ",
+    "estado": "Sergipe"
+  },
+  {
+    "loja_id": 251,
+    "loja": "Nossa Senhora do Socorro",
+    "endereco": "Av Eixo Estrutural B S/N Quadra 2 Lote 1 - Distrito - CEP: 49160-000",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "Sergipe"
+  },
+  {
+    "loja_id": 320,
+    "loja": "Palmas Cesamar (Projeto Olimpo)",
+    "endereco": "Q Acsu SE 40 Avenida LO 11 S/N Conj 02 Lote 01 A - CEP: 77021-623",
+    "cidade": "Palmas ",
+    "estado": "Tocantins"
+  },
+  {
+    "loja_id": 176,
+    "loja": "Palmas Teotonio",
+    "endereco": "AV JOAQUIM TEOTONIO SEGURADO S/N - QUADRAACSUSE 150  - PLANO DIRETOR EXPANSAO SUL - CEP: 77.061-002 ",
+    "cidade": "Palmas ",
+    "estado": "Tocantins"
+  }
+ ]

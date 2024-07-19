@@ -1,0 +1,213 @@
+@font-face {
+  font-family: 'Gotham Rounded Bold';
+  src: url("../fonts/GothamRounded-Bold.woff2") format("woff2"), url("../fonts/GothamRounded-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham Rounded Medium';
+  src: url("../fonts/GothamRounded-Medium.woff2") format("woff2"), url("../fonts/GothamRounded-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Gotham Rounded Medium';
+}
+
+select:focus {
+  outline: none;
+}
+
+header {
+  text-align: center;
+  padding: 40px 0;
+}
+
+header h1 {
+  color: #f56a0e;
+  font-size: 2.5rem;
+  font-family: 'Gotham Rounded Bold';
+  letter-spacing: -1px;
+}
+
+/*--- MAPA ---*/
+.selectable-map {
+  background: #f5f5f5;
+  width: 100%;
+}
+
+.selectable-map .container {
+  padding: 40px 0;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  overflow-x: hidden;
+  background: radial-gradient(farthest-corner circle at 0% 0%, var(--muidocs-palette-grey-50) 0%, var(--muidocs-palette-primary-50) 100%);
+}
+
+.selectable-map .container #app {
+  width: 100vw;
+  max-width: 1200px;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.selectable-map .container #app .col {
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 5%;
+}
+
+.selectable-map .container #app .col-1 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  /* info lojas */
+}
+
+.selectable-map .container #app .col-1 h3 {
+  color: #f36120;
+  margin: 40px 0;
+  font-family: 'Gotham Rounded Bold';
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+@media (orientation: portrait) {
+  .selectable-map .container #app .col-1 h3 {
+    font-size: 25px;
+    line-height: 28px;
+    font-family: "PF Square Sans Pro Bold";
+    margin: 0 0 25px 0;
+    letter-spacing: -1px;
+  }
+}
+
+.selectable-map .container #app .col-1 select {
+  padding: 10px 30px;
+  font-size: 21px;
+  border: 3px solid #f56a0e;
+  color: #f56a0e;
+  border-radius: 50px;
+  width: 100%;
+  max-width: 350px;
+  font-family: 'Gotham Rounded Medium';
+  -webkit-appearance: none;
+  background: #fff url(../images/arrow-down.png) 95% center no-repeat;
+  background-size: 15px;
+  cursor: pointer;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.selectable-map .container #app .col-1 select:hover {
+  background-color: #faf2ec;
+}
+
+.selectable-map .container #app .col-1 select option {
+  color: #f56a0e;
+  font-size: 21px;
+  display: inline-block;
+  padding: 15px;
+  background: #fff;
+}
+
+.selectable-map .container #app .col-1 select#lista-estados {
+  margin-bottom: 30px;
+}
+
+.selectable-map .container #app .col-1 .dados-loja {
+  width: 100%;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px;
+          box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px;
+  border-radius: 12px;
+  padding: 16px 16px 8px;
+  border-color: #ddd;
+  background: #fff;
+  margin-top: 40px;
+  padding: 25px;
+}
+
+.selectable-map .container #app .col-1 .dados-loja h4 {
+  font-size: 2rem;
+  color: #faa419;
+  margin: 0 0 20px 0;
+}
+
+.selectable-map .container #app .col-1 .dados-loja .endereco {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.selectable-map .container #app .col-1 .dados-loja .endereco p {
+  font-size: 18px;
+  margin: 0;
+  line-height: 24px;
+  color: #333;
+}
+
+.selectable-map .container #app .col-1 .dados-loja .endereco p strong {
+  color: #faa419;
+}
+
+.selectable-map .container #app .col-2 {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media (orientation: portrait) {
+  .selectable-map .container #app .col-2 #svg-map {
+    display: none;
+  }
+}
+
+.selectable-map .container #app .col-2 #svg-map path {
+  fill: #ccc;
+}
+
+.selectable-map .container #app .col-2 #svg-map a {
+  cursor: default;
+}
+
+.selectable-map .container #app .col-2 #svg-map a.ativo {
+  cursor: pointer;
+}
+
+.selectable-map .container #app .col-2 #svg-map a.ativo path {
+  fill: #f56a0e;
+}
+
+.selectable-map .container #app .col-2 #svg-map a.ativo.selecionado path, .selectable-map .container #app .col-2 #svg-map a.ativo:hover path {
+  fill: #faa419;
+}
+/*# sourceMappingURL=style.css.map */

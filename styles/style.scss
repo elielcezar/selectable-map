@@ -1,0 +1,195 @@
+$yellow: #faa419;
+$orange: #f56a0e;
+$grey: #606060;
+
+@font-face {
+  font-family: 'Gotham Rounded Bold';
+  src: url('../fonts/GothamRounded-Bold.woff2') format('woff2'),
+    url('../fonts/GothamRounded-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham Rounded Medium';
+  src: url('../fonts/GothamRounded-Medium.woff2') format('woff2'),
+    url('../fonts/GothamRounded-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Gotham Rounded Medium';
+}
+
+select:focus {
+  outline: none;
+}
+
+header {
+  text-align: center;
+  padding: 40px 0;
+
+  h1 {
+    color: $orange;
+    font-size: 2.5rem;
+    font-family: 'Gotham Rounded Bold';
+    letter-spacing: -1px;
+  }
+}
+
+/*--- MAPA ---*/
+.selectable-map {
+  background: #f5f5f5;
+  width: 100%;
+
+  .container {
+    padding: 40px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+    background: radial-gradient(farthest-corner circle at 0% 0%, var(--muidocs-palette-grey-50) 0%,
+        var(--muidocs-palette-primary-50) 100%);
+
+    #app {
+      width: 100vw;
+      max-width: 1200px;
+      margin: auto;
+      display: flex;
+
+      .col {
+        width: 50%;
+        display: flex;
+        padding: 0 5%;
+      }
+
+      .col-1 {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+
+        h3 {
+          color: #f36120;
+          margin: 40px 0;
+          font-family: 'Gotham Rounded Bold';
+          font-size: 2rem;
+          line-height: 2rem;
+
+          @media(orientation:portrait) {
+            font-size: 25px;
+            line-height: 28px;
+            font-family: "PF Square Sans Pro Bold";
+            margin: 0 0 25px 0;
+            letter-spacing: -1px;
+          }
+        }
+
+        select {
+          padding: 10px 30px;
+          font-size: 21px;
+          border: 3px solid $orange;
+          color: $orange;
+          border-radius: 50px;
+          width: 100%;
+          max-width: 350px;
+          font-family: 'Gotham Rounded Medium';
+          -webkit-appearance: none;
+          background: #fff url(../images/arrow-down.png) 95% center no-repeat;
+          background-size: 15px;
+          cursor: pointer;
+          transition: all .3s;
+
+          &:hover {
+            background-color: #faf2ec;
+          }
+
+          option {
+            color: $orange;
+            font-size: 21px;
+            display: inline-block;
+            padding: 15px;
+            background: #fff;
+          }
+
+          &#lista-estados {
+            margin-bottom: 30px;
+          }
+        }
+
+        /* info lojas */
+        .dados-loja {
+          width: 100%;
+          box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px;
+          border-radius: 12px;
+          padding: 16px 16px 8px;
+          border-color: #ddd;
+          background: #fff;
+          margin-top: 40px;
+          padding: 25px;
+
+          h4 {
+            font-size: 2rem;
+            color: $yellow;
+            margin: 0 0 20px 0;
+          }
+
+          .endereco {
+            display: flex;
+            align-items: center;
+
+            p {
+              font-size: 18px;
+              margin: 0;
+              line-height: 24px;
+              color: #333;
+
+              strong {
+                color: $yellow;
+              }
+            }
+          }
+        }
+
+      }
+
+      .col-2 {
+        justify-content: flex-end;
+        align-items: center;
+
+        #svg-map {
+          @media(orientation:portrait) {
+            display: none;
+          }
+
+          path {
+            fill: #ccc;
+          }
+
+          a {
+            cursor: default;
+
+            &.ativo {
+              cursor: pointer;
+
+              path {
+                fill: $orange;
+              }
+
+              &.selecionado,
+              &:hover {
+                path {
+                  fill: $yellow;
+                }
+              }
+            }
+          }
+        }
+      }
+
+    }
+  }
+}
